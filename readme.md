@@ -133,7 +133,7 @@ you're gonna need to modify the script slightly if you dislike it being queued n
 
 ### 📟️ 2. Get uosc
 
-Follow the official instructions [here](https://github.com/tomasklaen/uosc) or use my provided [script](https://github.com/vndreiii/mpv-music?tab=readme-ov-file#-automated-install) which automates everything including getting uosc.
+Follow the official instructions [here](https://github.com/tomasklaen/uosc) or use my provided [script](https://github.com/vndreiii/mpv-music?tab=readme-ov-file#-automated-install-with-dependencies) which automates everything including getting uosc.
 
 We're gonna configure only one thing here which is adding a top bar to have buttons to minimize, maximize, close and a title with the name of the song.
 
